@@ -116,15 +116,12 @@ Feel free to fork this repo and submit a pull request.
 
 ---
 
-## 📄 **License**
 
-This project is licensed under the **MIT License** – free for personal and academic use.
 
 ---
 
 ## 🧑‍💻 **Author**
 
-**Aman Gautam**  
-💼 Aspiring Machine Learning Engineer  
+**Aman Gautam**   
 🌐 [GitHub Profile](https://github.com/your-username)  
-✉️ Contact: your-email@example.com
+✉️ Contact: amangautam2128@gmail.com
